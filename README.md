@@ -1,5 +1,7 @@
 Phishing Email Analyzer
 
+![Screenshot](screenshot.png)
+
 A lightweight, browser-based tool that helps investigate suspicious emails.
 Paste the raw email source or open a .eml file, and the analyzer explains who
 the message claims to be, where it actually came from, and what looks wrong.
